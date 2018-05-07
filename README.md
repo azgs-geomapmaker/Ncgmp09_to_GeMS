@@ -1,3 +1,8 @@
 ### Ncgmp09 to GeMS
 
-python script
+This repository contains an ArcGIS toolbox and associated Python scripts and a folder of python scripts for outside Arc use.
+
+Download the Github repository
+
+If repository was downloaded as a zip, extract the zip file
+Make note of this directory, the steps below assume it will be called "GeMSArcTool"
