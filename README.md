@@ -2,7 +2,7 @@
 
 This repository contains an ArcGIS toolbox and associated Python scripts and a folder of python scripts for outside Arc use.
 
-## GeMSArcTool install
+#### GeMSArcTool install
 
 Download the Github repository
 
